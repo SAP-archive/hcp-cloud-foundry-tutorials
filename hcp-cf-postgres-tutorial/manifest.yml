@@ -1,0 +1,8 @@
+---
+applications:
+- name: hcp-cf-postgres-tutorial
+  memory: 512M
+  host: hcp-cf-postgres-tutorial
+  path: target/hcp-cf-postgres-tutorial-1.0-SNAPSHOT.jar
+  services:
+  - postgres-service

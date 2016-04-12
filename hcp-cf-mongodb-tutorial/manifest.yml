@@ -1,0 +1,8 @@
+---
+applications:
+- name: hcp-cf-mongodb-tutorial
+  memory: 512M
+  host: hcp-cf-mongodb-tutorial
+  path: target/hcp-cf-mongodb-tutorial-1.0-SNAPSHOT.jar
+  services:
+  - mongo-service

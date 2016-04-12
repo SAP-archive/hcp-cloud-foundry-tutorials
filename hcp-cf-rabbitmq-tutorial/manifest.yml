@@ -1,0 +1,8 @@
+---
+applications:
+- name: hcp-cf-rabbitmq-tutorial
+  memory: 512M
+  host: hcp-cf-rabbitmq-tutorial
+  path: target/hcp-cf-rabbitmq-tutorial-1.0-SNAPSHOT.jar
+  services:
+  - rabbitmq-service

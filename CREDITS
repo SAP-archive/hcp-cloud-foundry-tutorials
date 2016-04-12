@@ -1,0 +1,10 @@
+
+This program references the following third party open source or other free download components.
+The third party licensors of these components may provide additional license rights,
+terms and conditions and/or require certain notices as described below.
+
+Springframework 
+Licensed under Apache Software License v2.0 - https://github.com/spring-projects/spring-framework
+
+Spring-boot 
+Licensed under Apache Software License v2.0 - https://github.com/spring-projects/spring-boot
