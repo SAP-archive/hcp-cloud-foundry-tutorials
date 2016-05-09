@@ -1,6 +1,6 @@
 ---
 applications:
-- name: hcp-cf-redis-tutorial-tl
+- name: hcp-cf-redis-tutorial
   memory: 512M
   host: hcp-cf-redis-tutorial
   path: target/hcp-cf-redis-tutorial-1.0-SNAPSHOT.jar
